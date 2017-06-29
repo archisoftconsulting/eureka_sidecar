@@ -1,1 +1,1 @@
-# jhipster
+# Eureka sidecar
